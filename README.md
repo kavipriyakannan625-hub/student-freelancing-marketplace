@@ -1,2 +1,3 @@
-# student-freelancing-marketplace
-freelancing website for college students
+# Welcome to your Lovable project
+
+TODO: Document your project here
